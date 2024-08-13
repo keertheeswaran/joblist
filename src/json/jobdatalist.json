@@ -1,0 +1,60 @@
+{
+  "jobDataList": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "Tech Solutions",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "postedDate": "2024-08-10",
+      "description": "Responsible for developing and maintaining web applications.",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "3+ years of experience in software development",
+        "Proficiency in JavaScript, React, and Node.js"
+      ],
+      "salary": "120,000 - 140,000 USD",
+      "benefits": ["Health insurance", "Retirement plan", "Paid time off"]
+    },
+    {
+      "id": 2,
+      "title": "Data Analyst",
+      "company": "Data Corp",
+      "location": "New York, NY",
+      "type": "Part-time",
+      "postedDate": "2024-08-12",
+      "description": "Analyze and interpret complex data sets to inform business decisions.",
+      "requirements": [
+        "Bachelor's degree in Statistics, Mathematics, or related field",
+        "2+ years of experience in data analysis",
+        "Experience with SQL and data visualization tools"
+      ],
+      "salary": "60,000 - 80,000 USD",
+      "benefits": [
+        "Flexible working hours",
+        "Remote work options",
+        "Professional development opportunities"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Product Manager",
+      "company": "Innovatech",
+      "location": "Remote",
+      "type": "Contract",
+      "postedDate": "2024-08-14",
+      "description": "Lead product development from conception to launch.",
+      "requirements": [
+        "5+ years of experience in product management",
+        "Strong understanding of agile methodologies",
+        "Excellent communication and leadership skills"
+      ],
+      "salary": "150,000 - 180,000 USD",
+      "benefits": [
+        "Work from home",
+        "Project-based bonuses",
+        "Health insurance"
+      ]
+    }
+  ]
+}
